@@ -1,0 +1,242 @@
+[
+    {
+        "id": 25,
+        "p_name": "Swivel Chair Brooke",
+        "image": "product/brooke.jpg",
+        "category": "Chair",
+        "old_price": 3950,
+        "new_price": 3590,
+        "available": 1,
+        "description": "Made from superior quality chrome plated mild steel and nylon base High-quality fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Metal Inert Gas (MIG) welding for superior quality and durability Cutting and bending are done by the latest Japanese CNC machine with 99.99% accuracy Imported high-quality hardware fittings Indoor use only"
+    },
+    {
+        "id": 26,
+        "p_name": "MARIEDAMM Table",
+        "image": "product/table1.jpg",
+        "category": "Table",
+        "old_price": 16390,
+        "new_price": 14899,
+        "available": 1,
+        "description": "The sturdy metal construction with crossed legs gives the table a modern look that suits the kitchen as well as the living room. A practical solution for those who have little space."
+    },
+    {
+        "id": 27,
+        "p_name": "Modern Table",
+        "image": "product/mt-01.jpg",
+        "category": "Table",
+        "old_price": 8530,
+        "new_price": 7759,
+        "available": 1,
+        "description": "The Navigli collection, drawing from the chic, modern neighborhood in Milan, reinvents vernacular ancient Italian curves. This Navigli Black Large Two Seater Dining Table piques one’s interest at a romantic date night or just a casual rendezvous with friends."
+    },
+    {
+        "id": 28,
+        "p_name": "Kasparov Modern Chair",
+        "image": "product/ksp_3CBLdpq.jpg",
+        "category": "Chair",
+        "old_price": 5200,
+        "new_price": 4720,
+        "available": 1,
+        "description": "Made from superior quality chrome plated mild steel. High quality fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Metal Inert Gas (MIG) welding for superior quality and durability Cutting and bending are done by latest Japanese CNC machine with 99.99% accuracy Please refer to images for dimension details Imported high quality hardware fittings Indoor use only"
+    },
+    {
+        "id": 29,
+        "p_name": "Table Blake",
+        "image": "product/shittydesk.jpg",
+        "category": "Table",
+        "old_price": 7700,
+        "new_price": 6999,
+        "available": 1,
+        "description": "Made from superior quality melamine faced particle board with international standard density and load bearing capacity Same color edge banding done in latest Homag line Please refer to images for dimension details Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only"
+    },
+    {
+        "id": 31,
+        "p_name": "Bed Elegant Semi Double",
+        "image": "product/bed_FWXYogC.jpg",
+        "category": "Bed",
+        "old_price": 23100,
+        "new_price": 20998,
+        "available": 1,
+        "description": "Made from Kiln-dried imported Beech wood, veneered engineered wood and veneered MDF. High quality environment friendly Italian Ultra Violet (UV) Lacquer in antique finish Please refer to images for dimension details Imported high quality 5 mm thick mirror Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Only bed without mattress Indoor use only Weight 120.50 kgs Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish."
+    },
+    {
+        "id": 32,
+        "p_name": "NEO Gaming Desk",
+        "image": "product/gamingdesk.jpg",
+        "category": "Desk",
+        "old_price": 13710,
+        "new_price": 12459,
+        "available": 1,
+        "description": "Modern Simple Desk: NEO desk delivers a peaceful experience to you wherever at home or office. The rigid metal frame and reliable thick melamine boards give it a solid structure as well as a beautiful appearance. Sturdy Design: Strong Metal frame and adjustable leg pads provide greater stability, ensuring you to enjoy your work on this desk. Different offer you a large space to work. Two different sizes are available among this series. Applicable Room and Function: Computer Writing Desk--Suitable for study, bedroom, living room, kitchen, children's room, office. Can be a computer desk, learning tables, game tables, dinner tables, secretarial desk."
+    },
+    {
+        "id": 33,
+        "p_name": "Dining Comet-192",
+        "image": "product/1.jpg",
+        "category": "Dining Table",
+        "old_price": 18260,
+        "new_price": 16599,
+        "available": 1,
+        "description": "Made from Kiln-dried imported Beech wood and veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Imported high quality 10 mm thick glass Indoor use only Weight Table 59.50 kgs, Chair per unit 15.00 kgs Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish."
+    },
+    {
+        "id": 34,
+        "p_name": "Chinese Calligraphy Table",
+        "image": "product/2.jpg",
+        "category": "Table",
+        "old_price": 3130,
+        "new_price": 2849,
+        "available": 1,
+        "description": "Made from Kiln-dried imported Beech wood and veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Imported high quality 10 mm thick glass Indoor use only Weight Table 59.50 kgs, Chair per unit 15.00 kgs Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish."
+    },
+    {
+        "id": 35,
+        "p_name": "Modern dining table",
+        "image": "product/3.jpg",
+        "category": "Dining Table",
+        "old_price": 38330,
+        "new_price": 34845,
+        "available": 1,
+        "description": "Made from Kiln-dried imported Beech wood and veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Imported high quality 10 mm thick glass Weight Table 57.00 kgs, Chair 8.50 kgs Indoor use only Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish."
+    },
+    {
+        "id": 36,
+        "p_name": "Fabric Wooden Chair",
+        "image": "product/4.jpg",
+        "category": "Chair",
+        "old_price": 6600,
+        "new_price": 5999,
+        "available": 1,
+        "description": "Made from superior quality Nylon Base High quality fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Metal Inert Gas (MIG) welding for superior quality and durability Cutting and bending are done by latest Japanese CNC machine with 99.99% accuracy Please refer to images for dimension details Imported high quality hardware fittings Indoor use only"
+    },
+    {
+        "id": 37,
+        "p_name": "Indoor modern chair",
+        "image": "product/5.jpg",
+        "category": "Chair",
+        "old_price": 7700,
+        "new_price": 6999,
+        "available": 1,
+        "description": "Made from superior quality Nylon Base High quality fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Metal Inert Gas (MIG) welding for superior quality and durability Cutting and bending are done by latest Japanese CNC machine with 99.99% accuracy Please refer to images for dimension details Imported high quality hardware fittings Indoor use only"
+    },
+    {
+        "id": 38,
+        "p_name": "Modern Table Maple",
+        "image": "product/6.jpg",
+        "category": "Table",
+        "old_price": 2860,
+        "new_price": 2599,
+        "available": 1,
+        "description": "Made from superior quality melamine faced particle board with international standard density and load bearing capacity Same color edge banding done in latest Homag line Please refer to images for dimension details Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only"
+    },
+    {
+        "id": 39,
+        "p_name": "Elegant Dining Table",
+        "image": "product/7.jpg",
+        "category": "Dining Table",
+        "old_price": 10450,
+        "new_price": 9499,
+        "available": 1,
+        "description": "Made from Kiln-dried imported Beech wood and veneered engineered wood. High quality environment friendly Italian Ultra Violet (UV) and Polyurethane (PU) Lacquer in antique finish Please refer to images for dimension details Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Imported fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Fabric can be dry-cleaned Imported high quality 10 mm thick glass Indoor use only Weight Table 59.50 kgs, Chair per unit 15.00 kgs Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish."
+    },
+    {
+        "id": 40,
+        "p_name": "Modern Office Desk",
+        "image": "product/8.jpg",
+        "category": "Desk",
+        "old_price": 16500,
+        "new_price": 14999,
+        "available": 1,
+        "description": "Modern Simple Desk: Modern desk delivers a peaceful experience to you wherever at home or office. The rigid metal frame and reliable thick melamine boards give it a solid structure as well as a beautiful appearance. Sturdy Design: Strong Metal frame and adjustable leg pads provide greater stability, ensuring you to enjoy your work on this desk. Different sizes offer you a large space to work. Applicable Room and Function: Computer Writing Desk--Suitable for study, bedroom, living room, kitchen, children's room, office. Can be a computer desk, learning table, game table, dining table, or secretarial desk."
+    },
+    {
+        "id": 41,
+        "p_name": "Comfort Recliner Chair",
+        "image": "product/9.jpg",
+        "category": "Chair",
+        "old_price": 11000,
+        "new_price": 9999,
+        "available": 1,
+        "description": "Made from superior quality chrome plated mild steel. High quality fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Metal Inert Gas (MIG) welding for superior quality and durability Cutting and bending are done by the latest Japanese CNC machine with 99.99% accuracy Please refer to images for dimension details Imported high quality hardware fittings Indoor use only"
+    },
+    {
+        "id": 42,
+        "p_name": "Elegant Modern Bed",
+        "image": "product/10.jpg",
+        "category": "Bed",
+        "old_price": 26400,
+        "new_price": 23999,
+        "available": 1,
+        "description": "Made from Kiln-dried imported Beech wood, veneered engineered wood and veneered MDF. High quality environment friendly Italian Ultra Violet (UV) Lacquer in antique finish Please refer to images for dimension details Imported high quality 5 mm thick mirror Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Only bed without mattress Indoor use only Weight 120.50 kgs Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish."
+    },
+    {
+        "id": 43,
+        "p_name": "Modern Sofa Set",
+        "image": "product/11.jpg",
+        "category": "Sofa",
+        "old_price": 22000,
+        "new_price": 19999,
+        "available": 1,
+        "description": "Made from high quality fabric and foam upholstery with durable cushioning. Fabric can be selected from available options Metal Inert Gas (MIG) welding for superior quality and durability Cutting and bending are done by the latest Japanese CNC machine with 99.99% accuracy Please refer to images for dimension details Imported high quality hardware fittings Indoor use only"
+    },
+    {
+        "id": 44,
+        "p_name": "Stylish Wooden Chair",
+        "image": "product/12.jpg",
+        "category": "Chair",
+        "old_price": 7700,
+        "new_price": 6999,
+        "available": 1,
+        "description": "Made from superior quality Nylon Base High quality fabric upholstery with soft and durable cushioning. Fabric can be selected from available options Metal Inert Gas (MIG) welding for superior quality and durability Cutting and bending are done by the latest Japanese CNC machine with 99.99% accuracy Please refer to images for dimension details Imported high quality hardware fittings Indoor use only"
+    },
+    {
+        "id": 45,
+        "p_name": "Modern Bed Queen Size",
+        "image": "product/13.jpg",
+        "category": "Bed",
+        "old_price": 28600,
+        "new_price": 25999,
+        "available": 1,
+        "description": "Made from Kiln-dried imported Beech wood, veneered engineered wood and veneered MDF. High quality environment friendly Italian Ultra Violet (UV) Lacquer in antique finish Please refer to images for dimension details Imported high quality 5 mm thick mirror Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Only bed without mattress Indoor use only Weight 120.50 kgs Most of our furniture is made of natural components, which will have natural differences in grain construction and occasional minor blemish."
+    },
+    {
+        "id": 46,
+        "p_name": "Elegant Coffee Table",
+        "image": "product/14.jpg",
+        "category": "Table",
+        "old_price": 1100,
+        "new_price": 999,
+        "available": 1,
+        "description": "Made from superior quality melamine faced particle board with international standard density and load bearing capacity Same color edge banding done in latest Homag line Please refer to images for dimension details Any assembly or installation required will be done by the HATIL team at the time of delivery (one day after delivery for CKD items) Imported high quality hardware fittings Indoor use only"
+    },
+    {
+        "id": 47,
+        "p_name": "Outdoor Patio Set",
+        "image": "product/15.jpg",
+        "category": "Patio Furniture",
+        "old_price": 27500,
+        "new_price": 24999,
+        "available": 1,
+        "description": "Made from weather-resistant materials for durability and long-lasting use. The set includes a table and four chairs, perfect for outdoor dining and entertaining. Easy to clean and maintain."
+    },
+    {
+        "id": 48,
+        "p_name": "Modern Lounge Chair",
+        "image": "product/16.jpg",
+        "category": "Chair",
+        "old_price": 8800,
+        "new_price": 7999,
+        "available": 1,
+        "description": "Made from superior quality materials with a modern design. Comfortable and stylish, perfect for any living room or lounge area. High quality fabric upholstery with soft and durable cushioning. Metal Inert Gas (MIG) welding for superior quality and durability Cutting and bending are done by the latest Japanese CNC machine with 99.99% accuracy Please refer to images for dimension details Imported high quality hardware fittings Indoor use only"
+    },
+    {
+        "id": 49,
+        "p_name": "Contemporary Office Desk",
+        "image": "product/17.jpg",
+        "category": "Desk",
+        "old_price": 19800,
+        "new_price": 17999,
+        "available": 1,
+        "description": "Modern Simple Desk: Contemporary office desk delivers a peaceful experience to you wherever at home or office. The rigid metal frame and reliable thick melamine boards give it a solid structure as well as a beautiful appearance. Sturdy Design: Strong Metal frame and adjustable leg pads provide greater stability, ensuring you to enjoy your work on this desk. Different sizes offer you a large space to work. Applicable Room and Function: Computer Writing Desk--Suitable for study, bedroom, living room, kitchen, children's room, office. Can be a computer desk, learning table, game table, dining table, or secretarial desk."
+    }
+]
