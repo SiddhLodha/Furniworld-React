@@ -56,7 +56,7 @@ const CartItems = () => {
                             <h3>₹{getTotalCartAmount().toFixed(2)}</h3>
                         </div>
                     </div>
-                    <Link to="/checkout"><button>PROCEED TO CHECKOUT</button></Link>
+                    <Link to = '/checkout'><button>PROCEED TO CHECKOUT</button></Link>
                 </div>
                 <div className="cartitems-promocode">
                     <p>If you have a promo code, Enter it here</p>
